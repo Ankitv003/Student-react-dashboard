@@ -25,7 +25,7 @@ Make sure you have the following installed on your machine:
 
     ```
     cd student-react-dashboard
-    
+    ```
 
 3. Install all dependencies using npm:
 
